@@ -1,7 +1,7 @@
 #Aggregate marks & Average.
 
 
-print("Enter obtained marks of each subject:\n")
+print("Enter marks obtained for each subject:\n")
 
 #Input value
 hin=float(input("Hindi:"))
