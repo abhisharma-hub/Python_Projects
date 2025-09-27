@@ -42,6 +42,6 @@ As I learn more, I will improve this project by:
 👤 Author: Abhishek Sharma  
 🔗 Connect on LinkedIn [www.linkedin.com/in/abhishek-kumar-hub]
 
-Thanks for checking out my work. This is just the beginning of my data journey.  
+_Thanks for checking out my work. This is just the beginning of my data journey.  
 I’m learning step by step, and every view or feedback encourages me to keep going.  
-Your support truly means a lot. 💙
+Your support truly means a lot._ 💙
